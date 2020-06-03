@@ -1,3 +1,6 @@
 # heyc
 
-to start: npm start
+```
+npm i
+npm start
+```
