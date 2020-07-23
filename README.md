@@ -1,15 +1,13 @@
 # heyc
 
+A React Native application that uses some Typescript and lets users vote through the Polls API. (http://docs.pollsapi.apiary.io)
+
 To run: 
 
 ```
 npm i
 npm start
 ```
-
-A React Native application that lets users vote through the Polls API.
-
-Uses the polls API http://docs.pollsapi.apiary.io 
 
 ● A Question List screen - to display all the questions
 
