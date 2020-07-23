@@ -17,14 +17,15 @@ Uses the polls API http://docs.pollsapi.apiary.io
 
 ● Uses React native version (0.6x)
 
-● Complete code challenge using Typescript
+● Challenge uses Typescript (to be completed)
 
-● Unit testing (We want to see how you test your code)
+● Unit testing (To be implemented)
 
 ● Uses expo
 
 
 ## Additional Features
+
 ● Implement pagination on question list
 
 ● Implement option to add new question
